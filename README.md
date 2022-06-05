@@ -1,7 +1,6 @@
 # Projet-Bibliothèque
 
 DESCRIPTION :
-Projet CY-biblioTECH s’agit de réaliser un programme permettant de gérer automatiquement le stock de livres d’une bibliothèque universitaire. Le programme devra se baser sur une liste de livres et d’utilisateurs et gérer les emprunts et les restitutions de livres. L’application ne devra pas uniquement indiquer si un livre a été emprunté et par qui mais également gérer les règles de la bibliothèque comme les durées d’emprunts, le nombre de livres qu’il est possible d’emprunter etc. Il y aura deux types d’utilisateurs qui n’auront pas les mêmes droits en matière d’emprunts : les étudiants et les professeurs 
-
-COMMENT IL FONCTIONNE :
+Projet CY-biblioTECH The aim is to create a program to automatically manage the stock of books in a university library. The program should be based on a list of books and users and manage the borrowing and return of books. The application will not only have to indicate if a book has been borrowed and by whom, but also manage the rules of the library such as the duration of loans, the number of books that can be borrowed, etc. There will be two types of users who will not have the same borrowing rights: students and teachers
+HOW DOES IT WORK :
 Premièrement il vous est demandé de se connecter ou de s'inscrire. Vous devez suivre les instructions a l'écran.
