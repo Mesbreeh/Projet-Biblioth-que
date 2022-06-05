@@ -6,8 +6,7 @@ Projet CY-biblioTECH s’agit de réaliser un programme permettant de gérer aut
 COMMENT IL FONCTIONNE :
 Premièrement il vous est demandé de se connecter ou de s'inscrire. Vous devez suivre les instructions a l'écran. Ensuite, il y a une verification si vous avez respectez les règles. Par la suite, un menu s'affiche, avec votre nombre de livres emprunté et leurs titres puis  il vous sera demandez 4 actions : Eprunt, Rendre, Ajouter ou quitter. 
 
-Connexion : inscriver votre id et votre mot de passe comme vous vous etes inscris.
-
+Connection: enter your id and your password as you registered.
 Inscription : Entrer votre nouveau id, mdp, selectionné 1 pour prof ou 2 pour etudiant. Etat signifie si votre compte et actif ou non, et le nbr de livre emprunté est a 0 par defaut.
 
 Emprunt: Le programme va verifier si vous pouvez encore emprunter un livre. La liste des livres s'affichera et vous inscrirez le titre du livre avec espace compris.
