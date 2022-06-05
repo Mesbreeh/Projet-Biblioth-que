@@ -16,7 +16,7 @@ signin.o:signin.c signin.h struct.h
 add.o:add.c add.h struct.h purge.h charg.h
 	gcc -c add.c -o add.o
 
-struct.o:struc.c struct.h
+struct.o:struct.c struct.h
 	gcc -c struct.c -o struct.o
 
 borrow.o:borrow.c borrow.h struct.h
