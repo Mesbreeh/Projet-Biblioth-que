@@ -4,7 +4,9 @@ DESCRIPTION: CY-biblioTECH project involves creating a program to automatically 
 
 HOW IT WORKS: First you are asked to login or register. You must follow the on-screen instructions. Then there is a check if you have followed the rules. Thereafter, a menu is displayed, with your number of borrowed books and their titles then you will be asked 4 actions: Borrow, Return, Add or leave.
 
-Connection: enter your id and your password as you registered. Registration: Enter your new id, mdp, selected 1 for teacher or 2 for student. Status means if your account is active or not, and the number of books borrowed is 0 by default.
+Connection: enter your id and your password as you registered. 
+
+Registration: Enter your new id, mdp, selected 1 for teacher or 2 for student. Status means if your account is active or not, and the number of books borrowed is 0 by default.
 
 Borrow: The program will check if you can still borrow a book. The list of books will be displayed and you will enter the title of the book with space included.
 
