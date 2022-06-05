@@ -8,6 +8,6 @@ Connection: enter your id and your password as you registered. Registration: Ent
 
 Borrow: The program will check if you can still borrow a book. The list of books will be displayed and you will enter the title of the book with space included.
 
-Render: The program will ask you which book you want to return. Then it will check if you have borrowed this book before. If so, no problem, otherwise you cannot return this book. Then a check is made if you have respected the loan deadlines. It will deactivate your account if you have not followed the rules.
+Return: The program will ask you which book you want to return. Then it will check if you have borrowed this book before. If so, no problem, otherwise you cannot return this book. Then a check is made if you have respected the loan deadlines. It will deactivate your account if you have not followed the rules.
 
 Add: If you are a teacher you can add a book otherwise impossible. If you are, the program will ask you for the title (space included), author, identification number and categories (selected with 1,2,3 or 4). A verification of the information will be displayed, it will suffice to put 1 for yes and 2 for no.
